@@ -39,7 +39,7 @@
 (^|\.)tvbs\.com\.tw$
 (^|\.)technews.\tw$
 (^|\.)akamaihd\.net$
-(^|\.)gamea\.clashofclans\.com$
+(^|\.)clashofclans\.com$
 
 #GFWList IP start
 85.17.73.31
